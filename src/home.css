@@ -1,0 +1,19 @@
+/* body{
+    font-size: 1rem;
+} */
+
+h1{
+    color: rgb(247, 247, 158);
+    font-size: 1.5rem;
+    text-align: center;
+    
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Satisfy', cursive;
+}
+img{
+    
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left:40%;
+}

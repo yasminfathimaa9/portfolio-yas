@@ -1,0 +1,23 @@
+.navBar{
+     /* background:linear-gradient(to bottom,rgb(248, 201, 209),rgb(163, 163, 189));  */
+    background:linear-gradient(to bottom,rgb(152, 228, 174),rgb(15, 146, 48)); 
+    /* color:rgb(223, 168, 168);
+     */
+    display: flex; 
+
+   justify-content: space-around;
+   width:100vw;
+   height:15vh;
+
+font-weight: bold;
+font-family: "Satisfy", cursive;
+
+}
+.home:hover{
+   color:lightblue;
+}
+.home{
+   font-size: 1.4rem;
+   text-decoration: none;
+   padding:10px;
+}
